@@ -15,3 +15,7 @@ Bootstrap/Tailwind
 Java
 JUnit
 MySQL
+***
+## Planning
+### Wireframe of Dashboard
+![DashBoardWireFrame](/Untitled Diagram.drawio.png)
