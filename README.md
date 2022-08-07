@@ -18,4 +18,4 @@ MySQL
 ***
 ## Planning
 ### Wireframe of Dashboard
-![DashBoardWireFrame](/Untitled Diagram.drawio.png)
+![DashBoardWireFrame](./Untitled Diagram.drawio.png)
