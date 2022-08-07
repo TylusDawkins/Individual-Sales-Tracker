@@ -18,4 +18,4 @@ MySQL
 ***
 ## Planning
 ### Wireframe of Dashboard
-![DashBoardWireFrame](./Untitled Diagram.drawio.png)
+[<img alt="WireFrame_Dashboard" width="40px" src="./Untitled Diagram.drawio.png" />](https://www.google.com/)
