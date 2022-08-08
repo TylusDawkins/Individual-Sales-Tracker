@@ -18,7 +18,7 @@ MySQL
 ***
 ## Planning
 ### Wireframe of Dashboard
-[<img alt="WireFrame_Dashboard" width="500px" src="./Untitled Diagram.drawio.png" />]
+<img alt="WireFrame_Dashboard" width="500px" src="./Untitled Diagram.drawio.png" />
 
 ### ERD
-[<img alt="ERD" width="500px" src="./ERDv2.png" />]
+<img alt="ERD" width="500px" src="./ERDv2.png" />
