@@ -6,14 +6,21 @@ This is an application for tracking an insurances sales metrics on an individual
 ## Technologies Used
 ### Front-End
 React
+
 HTML
+
 CSS
+
 Javascript
+
 Bootstrap/Tailwind
 
 ### Back-End
+
 Java
+
 JUnit
+
 MySQL
 ***
 ## Planning
