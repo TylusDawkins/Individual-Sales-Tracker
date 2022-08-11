@@ -15,6 +15,8 @@ Javascript
 
 Bootstrap/Tailwind
 
+ChartsJs
+
 ### Back-End
 
 Java
